@@ -123,3 +123,14 @@ In this project, in-memory storage is being used in the backend. The leave recor
 ## Author
 
 Made as a Leave Management System project.
+
+## Application Screenshots
+
+### 1. Employee Login
+![Employee Login](screenshots/login-page.png)
+
+### 2. Employee Dashboard
+![Employee Dashboard](screenshots/dashboard.png)
+
+### 3. Leave Application and History
+![Leave Application and History](screenshots/leave-applied.png)
